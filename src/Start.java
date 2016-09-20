@@ -2,6 +2,7 @@ import algo.BubbleSort;
 import algo.InsertionSort;
 import algo.SelectSort;
 import algo.ShellSort;
+import algo.TwoSelectSort;
 
 public class Start {
 	public static void main(String[] args) {
@@ -11,7 +12,8 @@ public class Start {
 		// BubbleSort.doSort(test);
 		// SelectSort.doSort(test);
 		// InsertionSort.doSort(test);
-		ShellSort.doSort(test);
+//		ShellSort.doSort(test);
+		TwoSelectSort.doSort(test);
 		printArray(test);
 	}
 

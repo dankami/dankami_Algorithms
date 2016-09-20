@@ -1,7 +1,7 @@
 package algo;
 
 /**
- * ϣ���㷨
+ * 希尔算法
  * 
  * @author xuan
  *
