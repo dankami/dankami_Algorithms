@@ -1,5 +1,6 @@
 package algo;
 /**
+ * 二分法
  * @author zhou
  *
  */
