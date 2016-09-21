@@ -6,7 +6,7 @@ import algo.TwoSelectSort;
 
 public class Start {
 	public static void main(String[] args) {
-		System.out.println("我自己改改看!!!");
+		System.out.println("我是zkami!!!");
 
 		int[] test = { 10, 9, 8, 7, 6, 4, 3, 2, 1, 5 };
 		// BubbleSort.doSort(test);
